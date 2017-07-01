@@ -58,3 +58,6 @@ gem 'paperclip', '~> 5.0.0'
 
 # Simple Form gem for creating a form for submission
 gem 'simple_form'
+
+# Boostrap gem for styling
+gem 'bootstrap-sass', '~> 3.3.6'
